@@ -7,7 +7,7 @@ P.S: Please make an issue if something breaks
 
 ### Bookmarks
 - [All Answers Correct](/AllAnswersCorrect.js?raw=true)
-- [Highlight Answers](/file.js?raw=true)
+- [Highlight Answers](/HighlightAnswers.js?raw=true)
 
 ### Original Code
 - These bookmarks are some updated blooket cheats from https://greasyfork.org
