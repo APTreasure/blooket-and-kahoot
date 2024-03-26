@@ -1,8 +1,7 @@
 # Updated Blooket Cheats
 
 ### Installation
-1. Drag the links from the "Bookmarks" section into your bookmarks bar
-2. While in Blooket, click the bookmark
+1. yes
 P.S: Please make an issue if something breaks
 
 ### Bookmarks
