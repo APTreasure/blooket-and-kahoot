@@ -5,7 +5,8 @@
 2. Press CTRL + A
 3. Drag the highlighted text into your bookmarks bar
 4. (Optional) Change the name of the bookmark
-P.S: Please make an issue if something breaks
+
+P.S: Please make an issue if a bookmark breaks
 
 ### Bookmarks
 - [All Answers Correct](/AllAnswersCorrect.js?raw=true)
