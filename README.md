@@ -22,9 +22,9 @@ P.S: Please make an issue if a bookmark breaks
 ---
 
 ### Original Code
-- These bookmarks are Blooket / Kahoot cheats from https://greasyfork.org
-- All Answers Correct: https://greasyfork.org/en/scripts/450247-blooket-winner/code
-- Highlight Answers: https://greasyfork.org/en/scripts/462957-highlight-answers/code
-- Bypass Random Name: https://greasyfork.org/en/scripts/453662-blooket-mod1/code
-- Guess Crypto Password: https://greasyfork.org/en/scripts/453664-blooket-mod3-crypto/code
-- No Name Restrictions: https://greasyfork.org/en/scripts/452123-kahoot-namerator-and-name-length-bypass/code
+- [B] These bookmarks are Blooket / Kahoot cheats from https://greasyfork.org
+- [B] All Answers Correct: https://greasyfork.org/en/scripts/450247-blooket-winner/code
+- [B] Highlight Answers: https://greasyfork.org/en/scripts/462957-highlight-answers/code
+- [B] Bypass Random Name: https://greasyfork.org/en/scripts/453662-blooket-mod1/code
+- [B] Guess Crypto Password: https://greasyfork.org/en/scripts/453664-blooket-mod3-crypto/code
+- [K] No Name Restrictions: https://greasyfork.org/en/scripts/452123-kahoot-namerator-and-name-length-bypass/code
