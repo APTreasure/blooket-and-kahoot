@@ -1,4 +1,4 @@
-# Updated Blooket and Kahoot Cheats
+# Blooket and Kahoot Cheats
 
 ### Installation
 1. Click on the bookmark you want
