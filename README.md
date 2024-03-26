@@ -11,10 +11,8 @@ P.S: Please make an issue if a bookmark breaks
 ### Bookmarks
 - [All Answers Correct](/AllAnswersCorrect.js?raw=true)
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
-- [Unlock All Blooks](/UnlockAllBlooks.js?raw=true)
 
 ### Original Code
 - These bookmarks are some updated blooket cheats from https://greasyfork.org
 - All Answers Correct: https://greasyfork.org/en/scripts/450247-blooket-winner/code
 - Highlight Answers: https://greasyfork.org/en/scripts/462957-highlight-answers/code
-- Unlock All Blooks: https://greasyfork.org/en/scripts/489171-use-all-blooks/code
