@@ -18,6 +18,7 @@ P.S: Please make an issue if a bookmark breaks
 
 ### Kahoot
 - [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before Game PIN)
+- [Keyboard Buttons](/KeyboardButtons.js?raw=true) (Click 1234 for buttons)
 
 ---
 
@@ -28,3 +29,4 @@ P.S: Please make an issue if a bookmark breaks
 - [B] Bypass Random Name: https://greasyfork.org/en/scripts/453662-blooket-mod1/code
 - [B] Guess Crypto Password: https://greasyfork.org/en/scripts/453664-blooket-mod3-crypto/code
 - [K] No Name Restrictions: https://greasyfork.org/en/scripts/452123-kahoot-namerator-and-name-length-bypass/code
+- [K] Keyboard Buttons: https://greasyfork.org/en/scripts/425312-kaboot-modified/code
