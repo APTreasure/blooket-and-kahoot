@@ -11,8 +11,10 @@ P.S: Please make an issue if a bookmark breaks
 ### Bookmarks
 - [All Answers Correct](/AllAnswersCorrect.js?raw=true)
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
+- [Bypass Random Name](/BypassRandomName.js?raw=true)
 
 ### Original Code
 - These bookmarks are some updated blooket cheats from https://greasyfork.org
 - All Answers Correct: https://greasyfork.org/en/scripts/450247-blooket-winner/code
 - Highlight Answers: https://greasyfork.org/en/scripts/462957-highlight-answers/code
+- Bypass Random Name: https://greasyfork.org/en/scripts/453662-blooket-mod1/code
