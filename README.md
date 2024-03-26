@@ -6,7 +6,7 @@
 P.S: Please make an issue if something breaks
 
 ### Bookmarks
-- [All Answers Correct](/file.js)
+- [All Answers Correct](/AllAnswersCorrect.js)
 - [Highlight Answers](/file.js)
 
 ### Original Code
