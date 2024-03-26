@@ -17,7 +17,7 @@ P.S: Please make an issue if a bookmark breaks
 - [Guess Crypto Password](/CryptoPassword.js?raw=true)
 
 ### Kahoot
-- [No Name Restrictions](/NoNameRestrictions.js?raw=true)
+- [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before joining game)
 
 ---
 
