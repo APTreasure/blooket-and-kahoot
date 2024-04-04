@@ -18,7 +18,7 @@ P.S: Please make an issue if a bookmark breaks
 
 ### Kahoot
 - [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before Game PIN)
-- [Keyboard Buttons](/KeyboardButtons.js?raw=true) (Click 1234 for buttons)
+- [Keyboard Buttons](/KeyboardButtons.js?raw=true) (Click 1, 2 ,3, 4 for buttons)
 
 ---
 
