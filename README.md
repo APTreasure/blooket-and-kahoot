@@ -11,10 +11,10 @@ P.S: Please make an issue if a bookmark breaks
 ---
 
 ### Blooket
-- [All Answers Correct](/AllAnswersCorrect.js?raw=true)
+- [All Answers Correct](/AllAnswersCorrect.js?raw=true) (Patched?)
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
-- [Bypass Random Name](/BypassRandomName.js?raw=true)
-- [Guess Crypto Password](/CryptoPassword.js?raw=true)
+- [Bypass Random Name](/BypassRandomName.js?raw=true) (Patched!)
+- [Guess Crypto Password](/CryptoPassword.js?raw=true) (Patched?)
 
 ### Kahoot
 - [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before Game PIN)
