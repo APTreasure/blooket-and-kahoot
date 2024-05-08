@@ -13,6 +13,7 @@ P.S: Please make an issue if a bookmark breaks
 ### Blooket
 - [All Answers Correct](/AllAnswersCorrect.js?raw=true) (Patched?)
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
+- [Auto Answer](/AutoAnswer.js?raw=true)
 - [Bypass Random Name](/BypassRandomName.js?raw=true) (Patched!)
 - [Guess Crypto Password](/CryptoPassword.js?raw=true) (Patched?)
 
