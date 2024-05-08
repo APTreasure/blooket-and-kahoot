@@ -1,22 +1,22 @@
-# Blooket & Kahoot
+# Blooket and Kahoot
 
 ### Installation
-1. Click on the bookmark you want
-2. Press CTRL + A
-3. Drag the highlighted text into your bookmarks bar
-4. (Optional) Change the name of the bookmark
+1. Make sure you are not signed into your browser as a managed/school account
+2. Click on the bookmark you want
+3. Press CTRL + A
+4. Drag the highlighted text into your bookmarks bar
+5. (Optional) Change the name of the bookmark
 
 P.S: Please make an issue if a bookmark breaks
 
 ---
-(Last update on 7th of May 2024)
 
 ### Blooket
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
 - [Auto Answer](/AutoAnswer.js?raw=true)
 
 ### Kahoot
-- [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before Game PIN)
+- [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before name randomizer)
 - [Keyboard Buttons](/KeyboardButtons.js?raw=true) (Click 1, 2 ,3, 4 for buttons)
 
 ---
