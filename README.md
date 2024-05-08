@@ -1,4 +1,4 @@
-# _Updated_ Blooket and Kahoot Cheats
+# Blooket & Kahoot
 
 ### Installation
 1. Click on the bookmark you want
@@ -9,6 +9,7 @@
 P.S: Please make an issue if a bookmark breaks
 
 ---
+(Last update on 7th of May 2024)
 
 ### Blooket
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
@@ -23,6 +24,6 @@ P.S: Please make an issue if a bookmark breaks
 ### Original Code
 - These bookmarks are Blooket / Kahoot cheats from https://greasyfork.org
 - [B] Highlight Answers: https://greasyfork.org/en/scripts/462957-highlight-answers/code
-- [B] Auto Answer: Edit of https://greasyfork.org/en/scripts/462957-highlight-answers/code
+- [B] Auto Answer: Edit of [[B] Highlight Answers](https://greasyfork.org/en/scripts/462957-highlight-answers/code)
 - [K] No Name Restrictions: https://greasyfork.org/en/scripts/452123-kahoot-namerator-and-name-length-bypass/code
 - [K] Keyboard Buttons: https://greasyfork.org/en/scripts/425312-kaboot-modified/code
