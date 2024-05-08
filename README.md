@@ -1,5 +1,5 @@
 # Blooket and Kahoot
-
+(Last updated on the 7th of May 2024)
 ### Installation Guide
 1. Make sure you are not signed into your browser as a managed/school account
 2. Click on the bookmark you want
@@ -14,8 +14,6 @@
 > [!WARNING]
 > You can be banned from blooket if you use these while signed into it!
 ---
-
-(Last update on the 7th of May 2024)
 
 ### Blooket
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
