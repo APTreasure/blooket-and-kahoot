@@ -11,11 +11,8 @@ P.S: Please make an issue if a bookmark breaks
 ---
 
 ### Blooket
-- [All Answers Correct](/AllAnswersCorrect.js?raw=true) (Patched?)
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
 - [Auto Answer](/AutoAnswer.js?raw=true)
-- [Bypass Random Name](/BypassRandomName.js?raw=true) (Patched!)
-- [Guess Crypto Password](/CryptoPassword.js?raw=true) (Patched?)
 
 ### Kahoot
 - [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before Game PIN)
@@ -24,10 +21,8 @@ P.S: Please make an issue if a bookmark breaks
 ---
 
 ### Original Code
-- [B] These bookmarks are Blooket / Kahoot cheats from https://greasyfork.org
-- [B] All Answers Correct: https://greasyfork.org/en/scripts/450247-blooket-winner/code
+- These bookmarks are Blooket / Kahoot cheats from https://greasyfork.org
 - [B] Highlight Answers: https://greasyfork.org/en/scripts/462957-highlight-answers/code
-- [B] Bypass Random Name: https://greasyfork.org/en/scripts/453662-blooket-mod1/code
-- [B] Guess Crypto Password: https://greasyfork.org/en/scripts/453664-blooket-mod3-crypto/code
+- [B] Auto Answer: Edit of https://greasyfork.org/en/scripts/462957-highlight-answers/code
 - [K] No Name Restrictions: https://greasyfork.org/en/scripts/452123-kahoot-namerator-and-name-length-bypass/code
 - [K] Keyboard Buttons: https://greasyfork.org/en/scripts/425312-kaboot-modified/code
