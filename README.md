@@ -1,6 +1,6 @@
 # Blooket and Kahoot
 
-### Installation
+### Installation Guide
 1. Make sure you are not signed into your browser as a managed/school account
 2. Click on the bookmark you want
 3. Press CTRL + A
