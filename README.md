@@ -7,9 +7,15 @@
 4. Drag the highlighted text into your bookmarks bar
 5. (Optional) Change the name of the bookmark
 
-P.S: Please make an issue if a bookmark breaks
-
 ---
+> [!TIP]
+> Please make an issue if a bookmark breaks, then we can remove it, or even fix it
+
+> [!WARNING]
+> You can be banned from blooket if you use these while signed into it!
+---
+
+(Last update on the 7th of May 2024)
 
 ### Blooket
 - [Highlight Answers](/HighlightAnswers.js?raw=true)
