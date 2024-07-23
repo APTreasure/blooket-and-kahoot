@@ -20,7 +20,7 @@
 - [Auto Answer](/AutoAnswer.js?raw=true)
 
 ### Kahoot
-- [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use before name randomizer)
+- [No Name Restrictions](/NoNameRestrictions.js?raw=true) (Use at PIN screen)
 - [Keyboard Buttons](/KeyboardButtons.js?raw=true) (Click 1, 2 ,3, 4 for buttons)
 
 ---
